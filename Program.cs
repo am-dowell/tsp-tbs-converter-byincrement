@@ -7,10 +7,6 @@
 
 //Written by: Abigail Dowell
 
-//Written for: Gerry Schenk
-
-//Section A02
-
 using System;
 
 namespace Lab3 
